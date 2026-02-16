@@ -19,11 +19,11 @@ O sistema utiliza um arquivo CSV com separador `;`
 
 
 ### Exemplo de arquivo válido:
-2026-01-01;CAIXA;C;1000.00;Saldo inicial
-2026-01-02;CAIXA;D;200.00;Compra insumos
-2026-01-02;BANCO;C;500.00;Recebimento cliente
-2026-01-03;CAIXA;D;900.00;Pagamento fornecedor
-2026-01-03;BANCO;D;100.00;Tarifa bancaria
+-2026-01-01;CAIXA;C;1000.00;Saldo inicial
+-2026-01-02;CAIXA;D;200.00;Compra insumos
+-2026-01-02;BANCO;C;500.00;Recebimento cliente
+-2026-01-03;CAIXA;D;900.00;Pagamento fornecedor
+-2026-01-03;BANCO;D;100.00;Tarifa bancaria
 
 
 ### Regras:
